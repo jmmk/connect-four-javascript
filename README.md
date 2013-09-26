@@ -1,1 +1,1 @@
-# [Javascript Connect Four]
+#Javascript Connect Four
