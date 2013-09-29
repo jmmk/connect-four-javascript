@@ -123,12 +123,21 @@ button {
     opacity: .2;
 }
 
+button#create {
+    opacity: 1;
+    border-style: outset;
+}
+
 button:hover {
     opacity: 100;
 }
 
 img {
     background-color: white;
+}
+
+#outlet {
+    text-align: center;
 }
 
 /* ==========================================================================
